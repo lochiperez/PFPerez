@@ -24,8 +24,8 @@ export class UsersDialogComponent {
       rol: 'Administrador'
     },
     {
-      user: 'usuario',
-      pass: 'usuario',
+      user: 'User01',
+      pass: 'user1234',
       rol: 'Usuario'
     },
   ]
